@@ -1,0 +1,7 @@
+body {
+    background-color: #030F45;
+}
+form {
+    display: flex;
+    justify-content: center;
+}
