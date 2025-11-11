@@ -76,9 +76,15 @@ function displayHourlyForecast(hourlyData){
 
         const hourlyItemHtml = `
         <div class="hourly-item">
-            <span>${hour}:00</span>
-            <img src="${iconUrl}" alt="Hourly Weather Icon">
-            <p>${temperature}°F</p>
+            <table>
+                <tr>
+                    <td style="width: 100px"><span>${hour}:00</span></td>
+                    <td style="width: 100px"><img src="${iconUrl}" alt="Hourly Weather Icon"></td>
+                    <td style="width: 100px"><p>${temperature}°F</p></td>
+                </tr>
+                
+            </table>
+            
         </div>`;
     hourlyForecastDiv.innerHTML += hourlyItemHtml;
     });
@@ -88,3 +94,4 @@ function showImage(){
     const weatherIcon = document.getElementById('weather-icon');
     weatherIcon.style.display = 'block';
 }
+
