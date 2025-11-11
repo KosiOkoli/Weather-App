@@ -1,5 +1,5 @@
 body {
-    background-color: #AD27F5;
+    background-color: #0f0f76;
     font-family: Arial, sans-serif;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     backdrop-filter: blur(10px);
     max-width: 400px;
-    border: 2px solid #9B16DB;
+    border: 2px solid #fdfdfd;
 }
 h2,label, p{
     color: white;
