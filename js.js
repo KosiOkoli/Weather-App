@@ -44,7 +44,7 @@ function displayWeather(data){
         weatherInfoDiv.innerHTML = `<p>${data.message}</p>`;
     }else{
         const CityName = data.name;
-        const temperature = Math.round(data.main.temp- 273.15) * 9/5 + 32;
+        const temperature = Math.round(data.main.temp - 273.15) * (9/5) + 32; // Convert Kelvin to Fahrenheit
         const description = data.weather[0].description;
         const iconCode = data.weather[0].icon;
         const iconUrl = `https://openweathermap.org/img/wn/${iconCode}@4x.png`;
@@ -70,7 +70,7 @@ function displayHourlyForecast(hourlyData){
     next24Hours.forEach(item => {
         const dateTime = new Date(item.dt * 1000);
         const hour = dateTime.getHours();
-        const temperature = Math.round(item.main.temp - 273.15) * 9/5 + 32;
+        const temperature = Math.round(item.main.temp - 273.15) * 9/5 + 32; // Convert Kelvin to Fahrenheit
         const iconCode = item.weather[0].icon;
         const iconUrl = `https://openweathermap.org/img/wn/${iconCode}.png`;
 
