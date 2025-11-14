@@ -70,3 +70,7 @@ button:active {
     margin-right: auto;
 }
 
+#weather {
+    display: block;
+    
+}
