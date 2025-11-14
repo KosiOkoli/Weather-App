@@ -44,7 +44,7 @@ function displayWeather(data){
         weatherInfoDiv.innerHTML = `<p>${data.message}</p>`;
     }else{
         const CityName = data.name;
-        const temperature = Math.round(data.main.temp - 273.15) * (9/5) + 32; // Convert Kelvin to Fahrenheit
+        const temperature = Math.round(data.main.temp - 273.15) * 9/5 + 32; // Convert Kelvin to Fahrenheit
         const description = data.weather[0].description;
         const iconCode = data.weather[0].icon;
         const iconUrl = `https://openweathermap.org/img/wn/${iconCode}@4x.png`;
