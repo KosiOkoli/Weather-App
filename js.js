@@ -76,8 +76,8 @@ function displayHourlyForecast(hourlyData){
 
         const hourlyItemHtml = `
         <div class="hourly-item">
-            <table>
-                <tr>
+            <table style="width: 400px; text-align: center;">
+                <tr >
                     <td style="width: 100px"><span>${hour}:00</span></td>
                     <td style="width: 100px"><img src="${iconUrl}" alt="Hourly Weather Icon"></td>
                     <td style="width: 100px"><p>${temperature}°F</p></td>
