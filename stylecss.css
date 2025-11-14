@@ -71,6 +71,10 @@ button:active {
 }
 
 #weather {
-    display: block;
-    padding-left: 130px;
+    display: block; /* Already set, but good practice */
+    width: 200px;   /* Example: Set a specific width */
+    margin-left: auto;
+    margin-right: auto;
+    /* Shorthand for margins: */
+    margin: 0 auto; /* Sets top/bottom margins to 0, left/right margins to auto */
 }
