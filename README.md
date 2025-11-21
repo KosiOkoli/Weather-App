@@ -7,15 +7,16 @@ The Forecast Pro is a web aplication shows the **current weather** for any city.
 
 ## 🖼️ Screenshots / Visuals
 **Home Screen:**
-<img width="1706" height="910" alt="Screenshot 2025-11-20 at 8 31 05 PM" src="https://github.com/user-attachments/assets/beb9e1fa-49fd-4004-a8b6-4b58156940c3" />
+<img width="1702" height="916" alt="Screenshot 2025-11-20 at 9 45 44 PM" src="https://github.com/user-attachments/assets/9128b72f-8fb1-4195-9d81-59657eae00d9" />
 
 **Forecast View:**
-<img width="1705" height="918" alt="Screenshot 2025-11-20 at 8 31 56 PM" src="https://github.com/user-attachments/assets/a6544a5f-8374-4b06-8aa9-0a884c6c6d45" />
+<img width="1709" height="922" alt="Screenshot 2025-11-20 at 9 48 02 PM" src="https://github.com/user-attachments/assets/0f91f378-59cf-4a06-99dd-6298ead97f29" />
+
 
 ---
 
 ## 🎥 Demo Video
-**Watch the demo:** https://youtu.be/2ii7mT3-W50?si=pvWk0NED7XNh1aZG
+**Watch the demo:** https://youtu.be/UUz6S2-W0MM
 
 ---
 
