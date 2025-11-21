@@ -1,7 +1,7 @@
-# 🌤 Project Title: Weather App
+# 🌤 Project Title: Forecast Pro
 
 ## 🚀 Project Description
-The Weather App is a web aplication shows the **current weather** for any city. This project presents accurate weather data, allow users to see current temperature, weather conditions, and future forecast. Weather forecasts allows for users to plan their day and make weather-aware decisions. This app provides a clean and responsive interface.
+The Forecast Pro is a web aplication shows the **current weather** for any city. This project presents accurate weather data, allow users to see current temperature, weather conditions, and future forecast. Weather forecasts allows for users to plan their day and make weather-aware decisions. This app provides a clean and responsive interface.
 
 ---
 
