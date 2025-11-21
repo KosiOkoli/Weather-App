@@ -1,7 +1,8 @@
 # 🌤 Project Title: Weather App
 
 ## 🚀 Project Description
-The Weather App is a web application that shows the **current weather** for any city. It helps users plan their day and make weather-aware decisions.
+The Weather App is a web aplication shows the **current weather** for any city. This project presents accurate weather data, allow users to see current temperature, weather conditions, and future forecast. Weather forecasts allows for users to plan their day and make weather-aware decisions. This app provides a clean and responsive interface.
+
 ---
 
 ## 🖼️ Screenshots / Visuals
