@@ -15,7 +15,7 @@ Forecast View:
 ---
 
 ## 🎥 Demo Video
-Watch the demo: [YouTube / Drive / TikTok Link](your-demo-link)
+Watch the demo: https://youtu.be/2ii7mT3-W50?si=pvWk0NED7XNh1aZG
 
 ---
 
