@@ -37,12 +37,10 @@ The Weather App is a web aplication shows the **current weather** for any city. 
 ## ✨ How We Built This
 
 1. **Started with the HTML structure**
-
-   We set up the basic layout: a search bar, city name display, weather icon, temperature, description, and extra details.
+  - We set up the basic layout: a search bar, city name display, weather icon, temperature, description, and extra details.
 
 3. **Styling with CSS**
-
-   We aimed for a modern layout,  spacing, colors, and clear design, ensuring the app works properly on both mobile and desktop.
+  - We aimed for a modern layout,  spacing, colors, and clear design, ensuring the app functions properly.
 
 5. **Integrated the OpenWeatherMap API**
    - We used JavaScript's 'fetch()' with an API Key, integrating the data from the weather data from OpenWeatherMap API into the code.
